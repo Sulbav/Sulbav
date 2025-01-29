@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abraham Sulbaran
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML | CSS with Tailwind | JavaScript | Astro Framework | Git and Github
+- 🌱 I’m currently learning HTML | CSS with Tailwind | JavaScript | Astro | ReactJS | NodeJS | Git and Github
+- DataBases: SQLite3 | MongoDB | PostgreeSQL 
 
 
 <!---
